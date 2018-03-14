@@ -1,0 +1,7 @@
+C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerSocket\bin\Debug\ServerSocket.exe.config
+C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerSocket\bin\Debug\ServerSocket.exe
+C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerSocket\bin\Debug\ServerSocket.pdb
+C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerSocket\obj\Debug\ServerSocket.csprojResolveAssemblyReference.cache
+C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerSocket\obj\Debug\ServerSocket.csproj.CoreCompileInputs.cache
+C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerSocket\obj\Debug\ServerSocket.exe
+C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerSocket\obj\Debug\ServerSocket.pdb

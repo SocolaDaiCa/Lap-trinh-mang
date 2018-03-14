@@ -1,0 +1,6 @@
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientSocketNetworkStream\bin\Debug\ClientSocketNetworkStream.exe.config
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientSocketNetworkStream\bin\Debug\ClientSocketNetworkStream.exe
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientSocketNetworkStream\bin\Debug\ClientSocketNetworkStream.pdb
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientSocketNetworkStream\obj\Debug\ClientSocketNetworkStream.csproj.CoreCompileInputs.cache
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientSocketNetworkStream\obj\Debug\ClientSocketNetworkStream.exe
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientSocketNetworkStream\obj\Debug\ClientSocketNetworkStream.pdb

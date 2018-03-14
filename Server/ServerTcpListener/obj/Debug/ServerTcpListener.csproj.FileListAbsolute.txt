@@ -1,0 +1,6 @@
+C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerTcpListener\bin\Debug\ServerTcpListener.exe.config
+C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerTcpListener\bin\Debug\ServerTcpListener.exe
+C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerTcpListener\bin\Debug\ServerTcpListener.pdb
+C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerTcpListener\obj\Debug\ServerTcpListener.csproj.CoreCompileInputs.cache
+C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerTcpListener\obj\Debug\ServerTcpListener.exe
+C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerTcpListener\obj\Debug\ServerTcpListener.pdb

@@ -1,0 +1,6 @@
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientTCPClient\bin\Debug\ClientTCPClient.exe.config
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientTCPClient\bin\Debug\ClientTCPClient.exe
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientTCPClient\bin\Debug\ClientTCPClient.pdb
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientTCPClient\obj\Debug\ClientTCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientTCPClient\obj\Debug\ClientTCPClient.exe
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientTCPClient\obj\Debug\ClientTCPClient.pdb

@@ -1,0 +1,7 @@
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientUdpClient\bin\Debug\ClientUdpClient.exe.config
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientUdpClient\bin\Debug\ClientUdpClient.exe
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientUdpClient\bin\Debug\ClientUdpClient.pdb
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientUdpClient\obj\Debug\ClientUdpClient.csproj.CoreCompileInputs.cache
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientUdpClient\obj\Debug\ClientUdpClient.exe
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientUdpClient\obj\Debug\ClientUdpClient.pdb
+C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientUdpClient\obj\Debug\ClientUdpClient.csprojResolveAssemblyReference.cache
