@@ -1,6 +1,0 @@
-C:\Users\Socola\source\repos\Lập trình mạng\Client\Socket\bin\Debug\Socket.exe.config
-C:\Users\Socola\source\repos\Lập trình mạng\Client\Socket\bin\Debug\Socket.exe
-C:\Users\Socola\source\repos\Lập trình mạng\Client\Socket\bin\Debug\Socket.pdb
-C:\Users\Socola\source\repos\Lập trình mạng\Client\Socket\obj\Debug\ClientSocket.csproj.CoreCompileInputs.cache
-C:\Users\Socola\source\repos\Lập trình mạng\Client\Socket\obj\Debug\Socket.exe
-C:\Users\Socola\source\repos\Lập trình mạng\Client\Socket\obj\Debug\Socket.pdb
