@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net;
 using System.Net.Sockets;
+using System.IO;
+
 namespace ClientSocketNetworkStream
 {
     class Program
@@ -27,6 +29,9 @@ namespace ClientSocketNetworkStream
                 return;
             }
             NetworkStream ns = new NetworkStream(client);
+            //StreamReader reader = new StreamReader(ns);
+            //StreamWriter writer = new StreamWriter(ns);
+
             while (true)
             {
                 // nhận

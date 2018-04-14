@@ -4,3 +4,10 @@ C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientTCPClient\bin\Debu
 C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientTCPClient\obj\Debug\ClientTCPClient.csproj.CoreCompileInputs.cache
 C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientTCPClient\obj\Debug\ClientTCPClient.exe
 C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientTCPClient\obj\Debug\ClientTCPClient.pdb
+C:\laragon\www\github\Lap-trinh-mang\Client\ClientTCPClient\bin\Debug\ClientTCPClient.exe.config
+C:\laragon\www\github\Lap-trinh-mang\Client\ClientTCPClient\bin\Debug\ClientTCPClient.exe
+C:\laragon\www\github\Lap-trinh-mang\Client\ClientTCPClient\bin\Debug\ClientTCPClient.pdb
+C:\laragon\www\github\Lap-trinh-mang\Client\ClientTCPClient\obj\Debug\ClientTCPClient.csproj.CoreCompileInputs.cache
+C:\laragon\www\github\Lap-trinh-mang\Client\ClientTCPClient\obj\Debug\ClientTCPClient.exe
+C:\laragon\www\github\Lap-trinh-mang\Client\ClientTCPClient\obj\Debug\ClientTCPClient.pdb
+C:\laragon\www\github\Lap-trinh-mang\Client\ClientTCPClient\obj\Debug\ClientTCPClient.csprojResolveAssemblyReference.cache

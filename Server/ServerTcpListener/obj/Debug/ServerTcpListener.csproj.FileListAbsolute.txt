@@ -4,3 +4,9 @@ C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerTcpListener\bin\De
 C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerTcpListener\obj\Debug\ServerTcpListener.csproj.CoreCompileInputs.cache
 C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerTcpListener\obj\Debug\ServerTcpListener.exe
 C:\Users\Socola\source\repos\Lập trình mạng\Server\ServerTcpListener\obj\Debug\ServerTcpListener.pdb
+C:\laragon\www\github\Lap-trinh-mang\Server\ServerTcpListener\bin\Debug\ServerTcpListener.exe.config
+C:\laragon\www\github\Lap-trinh-mang\Server\ServerTcpListener\bin\Debug\ServerTcpListener.exe
+C:\laragon\www\github\Lap-trinh-mang\Server\ServerTcpListener\bin\Debug\ServerTcpListener.pdb
+C:\laragon\www\github\Lap-trinh-mang\Server\ServerTcpListener\obj\Debug\ServerTcpListener.csproj.CoreCompileInputs.cache
+C:\laragon\www\github\Lap-trinh-mang\Server\ServerTcpListener\obj\Debug\ServerTcpListener.exe
+C:\laragon\www\github\Lap-trinh-mang\Server\ServerTcpListener\obj\Debug\ServerTcpListener.pdb

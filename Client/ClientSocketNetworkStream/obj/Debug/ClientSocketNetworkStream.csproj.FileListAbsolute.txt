@@ -4,3 +4,9 @@ C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientSocketNetworkStrea
 C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientSocketNetworkStream\obj\Debug\ClientSocketNetworkStream.csproj.CoreCompileInputs.cache
 C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientSocketNetworkStream\obj\Debug\ClientSocketNetworkStream.exe
 C:\Users\Socola\source\repos\Lập trình mạng\Client\ClientSocketNetworkStream\obj\Debug\ClientSocketNetworkStream.pdb
+C:\laragon\www\github\Lap-trinh-mang\Client\ClientSocketNetworkStream\obj\Debug\ClientSocketNetworkStream.csproj.CoreCompileInputs.cache
+C:\laragon\www\github\Lap-trinh-mang\Client\ClientSocketNetworkStream\obj\Debug\ClientSocketNetworkStream.exe
+C:\laragon\www\github\Lap-trinh-mang\Client\ClientSocketNetworkStream\obj\Debug\ClientSocketNetworkStream.pdb
+C:\laragon\www\github\Lap-trinh-mang\Client\ClientSocketNetworkStream\bin\Debug\ClientSocketNetworkStream.exe.config
+C:\laragon\www\github\Lap-trinh-mang\Client\ClientSocketNetworkStream\bin\Debug\ClientSocketNetworkStream.exe
+C:\laragon\www\github\Lap-trinh-mang\Client\ClientSocketNetworkStream\bin\Debug\ClientSocketNetworkStream.pdb

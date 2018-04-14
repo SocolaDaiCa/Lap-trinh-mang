@@ -22,6 +22,7 @@ namespace ClientTCPClient
             catch (SocketException)
             {
                 Console.WriteLine("Ket noi that bai");
+                Console.ReadLine();
                 return;
             }
             NetworkStream ns = server.GetStream();
